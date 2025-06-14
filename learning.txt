@@ -1,4 +1,5 @@
-I have learned from this course is how to access Github repositers 
+What I have learned from this course
+is how to access Github repositers 
 and git to control hosted repository (by going by to pervious version,commiting change and so on...)
 
 
